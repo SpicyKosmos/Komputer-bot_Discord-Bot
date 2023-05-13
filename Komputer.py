@@ -9,8 +9,8 @@ import requests
 
 
 
-TOKEN= "MTA5ODk2NjcwMzgxNzM3OTkwMA.GTi3yd.TAWOZHLKzXoHNxs0DdZQCJnki_QleVlU1OJy0Q"
-sunucu_id = "263045299755417630"
+TOKEN= #Your Discord Token
+sunucu_id = #Your Server ID
 channel1 = "bot-test"
 
 
